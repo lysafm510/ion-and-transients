@@ -1,0 +1,5 @@
+data/*
+parameters/triangle_number
+.gitignore
+__pycache__/
+.idea/
